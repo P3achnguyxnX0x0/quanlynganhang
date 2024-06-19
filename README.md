@@ -1,2 +1,2 @@
-# quanlynganhangvtb
-Quản Lý Ngân Hàng Vietinbank Thái Nguyên
+# quanlynganhang
+Quản Lý Ngân Hàng
